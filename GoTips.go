@@ -79,7 +79,7 @@ func typeDemo() {
 
 	fmt.Println(b1)
 
-	// 2. 整形
+	// 2. 整型
 	// int8 uint8 int16 uint16 int32 uint32 int64 uint64 int uint uintptr
 	var i32 int32
 	// 强制转换
